@@ -33,7 +33,7 @@ Me siga no GitHub:
 
 
 <center>
-  <table style="border:0;">
+  <table style="border:none;">
     <tr>
         <td><img heigth="100% auto;" align="left" src="https://github-readme-stats.vercel.app/api?username=GiovaneVerbinnen&theme=blueberry&include_all_commits=true&count_private=true"/></td>
        <td><img width="410px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovaneVerbinnen&layout=compact&theme=blueberry" /></td>
