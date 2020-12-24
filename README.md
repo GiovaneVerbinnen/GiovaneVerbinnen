@@ -15,7 +15,7 @@
 
 ✨ Eu atualmente estou me focando no Front-End com JavaScript, ⚛️ React, Vue, Angular e outros...<br>
 
-   E no Back-End com Golang, Pyhton, PHP, node.js etc...<br>
+💻 E no Back-End com Golang, Pyhton, PHP, node.js etc...<br>
 
 👯 Ficarei feliz de colaborar com seu projeto
 
@@ -29,7 +29,7 @@
 
 Me siga no GitHub:
 ![GitHub followers](https://img.shields.io/github/followers/GiovaneVerbinnen?label=GiovaneVerbinnen&style=social)
-💻
+
 
 
 <center>
