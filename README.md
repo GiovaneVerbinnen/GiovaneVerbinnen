@@ -1,6 +1,6 @@
 ### Hey! Giovane aqui 👋
   
-🔭 Desenvolvedor Front-End
+🔭 Desenvolvedor Full-Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
@@ -33,7 +33,7 @@ Me siga no GitHub:
 
 
 <center>
-  <table>
+  <table style="border:0;">
     <tr>
         <td><img heigth="100% auto;" align="left" src="https://github-readme-stats.vercel.app/api?username=GiovaneVerbinnen&theme=blueberry&include_all_commits=true&count_private=true"/></td>
        <td><img width="410px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovaneVerbinnen&layout=compact&theme=blueberry" /></td>
