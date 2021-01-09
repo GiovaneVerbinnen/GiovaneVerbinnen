@@ -43,8 +43,8 @@ Me siga no GitHub:
   </table>
 </center>  
 
- <h3 class="mb-0">Desenvolvedor Full-Stack - UX/UI Designer</h3>
-                            <div class="subheading mb-3">EUCARD</div>
+ <h3 >Desenvolvedor Full-Stack - UX/UI Designer</h3>
+                            <h5>EUCARD</h5>
                             <p>
                                 Desenvolvedor Full-Stack com Vue/Quasar, Flutter, Javascript, PHP, Wordpress, Git, APIs com Golang, Python, node.js(NEST.js, Express) e PostgreSQL e MySQL.
                             </p>
