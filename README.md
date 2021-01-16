@@ -2,7 +2,7 @@
   
 🔭 Desenvolvedor Full-Stack • UX-UI Designer • Freelancer
 
-##![Portfólio](https://giovaneverbinnen.github.io/portifolio/)&nbsp;
+##[Portfólio](https://giovaneverbinnen.github.io/portifolio/)&nbsp;
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
