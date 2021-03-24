@@ -18,9 +18,9 @@
 ![Docker](https://img.shields.io/badge/-Docker-099cec?style=flat&logoColor=fff&logo=docker)&nbsp;
 
 
-✨ Eu atualmente estou me focando no Front-End com JavaScript, React, Vue, Angular e outros...<br>
+✨ Você pode conferir alguns projetos meus nos 'pinados' logo abaixo  ...<br>
 
-💻 E no Back-End com Golang, Pyhton, PHP, node.js etc...<br>
+💻 Sempre estudando e aprendendo mais etc...<br>
 
 👯 Ficarei feliz de colaborar com seu projeto
 
@@ -49,9 +49,9 @@ Me siga no GitHub:
  <h3 >Desenvolvedor Full-Stack - UX/UI Designer</h3>
                             <h5>EUCARD</h5>
                             <p>
-                                Desenvolvedor Full-Stack com Vue/Quasar, Flutter, Javascript, PHP, Wordpress, Git, APIs com Golang, Python, node.js(NEST.js, Express) e PostgreSQL e MySQL.
+                                Desenvolvedor Full-Stack com Vue/Quasar, Javascript, Git, APIs com Golang, PostgreSQL.
                             </p>
                             <p>
-                                • Fui UX/UI Designer fazendo prototipagem das telas pro novo App da Eucard e outros.
+                                • Fui UX/UI Designer fazendo prototipagem das telas no App da Eucard.
                             </p>
 
