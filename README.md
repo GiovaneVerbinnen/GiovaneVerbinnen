@@ -42,9 +42,9 @@ Me siga no GitHub:
  <h3 >Desenvolvedor Full-Stack - UX/UI Designer</h3>
                             <h5>EUCARD</h5>
                             <p>
-                                Desenvolvedor Full-Stack com Vue/Quasar, Javascript, Git, APIs com Golang, PostgreSQL.
+                                Desenvolvedor Full-Stack com Vue/Quasar, Javascript, Git, APIs com Golang e persistência PostgreSQL.
                             </p>
                             <p>
-                                • Fui UX/UI Designer fazendo prototipagem das telas no App da Eucard.
+                                • UX/UI Designer fazendo prototipagem das telas no App da Eucard.
                             </p>
 
