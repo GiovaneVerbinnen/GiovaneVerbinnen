@@ -40,11 +40,6 @@ Me siga no GitHub:
 </center>  
 
  <h3 >Desenvolvedor Full-Stack - UX/UI Designer</h3>
-                            <h5>EUCARD</h5>
-                            <p>
-                                Desenvolvedor Full-Stack com Vue/Quasar, Javascript, Git, APIs com Golang e persistência PostgreSQL.
-                            </p>
-                            <p>
-                                • UX/UI Designer fazendo prototipagem das telas no App da Eucard.
-                            </p>
+     <h5>  Desenvolvendo com Vue/Quasar, React no Front-end e APIs com node.js, PHP, Golang.</h5>
+
 
