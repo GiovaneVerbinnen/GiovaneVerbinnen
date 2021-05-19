@@ -11,9 +11,9 @@
 ![Quasar](https://img.shields.io/badge/-Quasar-1976D1?style=flat&logoColor=fff&logo=quasar)&nbsp;
 
 
-✨ Você pode conferir alguns projetos meus nos 'pinados' logo abaixo  ...<br>
+✨ Você pode conferir alguns projetos meus nos 'pinados' logo abaixo ou nos repositórios públicos <br>
 
-💻 Sempre estudando e aprendendo mais etc...<br>
+💻 Aprendizado Continio - 1% melhor a cada dia<br>
 
 👯 Ficarei feliz de colaborar com seu projeto
 
