@@ -13,7 +13,7 @@
 
 ✨ Você pode conferir alguns projetos meus nos 'pinados' logo abaixo ou nos repositórios públicos <br>
 
-💻 Aprendizado Continio - 1% melhor a cada dia<br>
+💻 Aprendizado Contínuo - 1% melhor a cada dia<br>
 
 👯 Ficarei feliz de colaborar com seu projeto
 
