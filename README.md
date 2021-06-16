@@ -2,7 +2,7 @@
   
 🔭 Desenvolvedor Full-Stack • UX-UI Designer • Freelancer
 
-[Portfólio](https://giovaneverbinnen.github.io/portifolio/)&nbsp;
+[Portfólio](https://www.giovane.dev/)&nbsp;
 
 ***
 
