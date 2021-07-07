@@ -40,7 +40,7 @@ Me siga no GitHub:
 </center>  
 
  <h3 >Desenvolvedor Full-Stack - UX/UI Designer</h3>
-     <h5>  Desenvolvendo com Vue/Quasar, React no Front-end e APIs com node.js(express e nest.js), PHP, Golang.</h5>
-     <h5>  Trabalho com CodeIgniter, Laravel e outros frameworks PHP também.</h5>
+     <h5>  Desenvolvendo com Vue/NUXT, React/NEXT no Front-end e APIs com node.js(express, nest.js), PHP( CodeIgniter, Laravel, Wordpress ), Golang.</h5>
+     <h5>  Também faço UX/UI Design e Apps Mobile.</h5>
 
 
