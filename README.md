@@ -15,7 +15,7 @@
 
 💻 Aprendizado Contínuo - 1% melhor a cada dia<br>
 
-👯 Ficarei feliz de colaborar com seu projeto
+🤝 Ficarei feliz de colaborar com seu projeto
 
 📫 Pode entrar em contato comigo e ver meu trabalho pelas redes sociais
 
