@@ -12,7 +12,7 @@
 ![Quasar](https://img.shields.io/badge/-Quasar-1976D1?style=flat&logoColor=fff&logo=quasar)&nbsp;
 
 
-✨ Você pode conferir alguns projetos meus nos 'pinados' logo abaixo ou nos repositórios públicos <br>
+✨ Você pode conferir alguns projetos meus nos 'pinados' logo abaixo ou nos [repositórios públicos](https://github.com/GiovaneVerbinnen?tab=repositories)  <br>
 
 💻 Aprendizado Contínuo - 1% melhor a cada dia<br>
 
