@@ -1,6 +1,6 @@
 ### Hey! Giovane aqui 👋
   
-🔭 Desenvolvedor Full-Stack • UX-UI Designer • Freelancer
+💻 Software Engineer
 
 [Portfólio](https://www.giovane.dev/)&nbsp;
 
@@ -14,11 +14,7 @@
 
 ✨ Você pode conferir alguns projetos meus nos 'pinados' logo abaixo ou nos [repositórios públicos](https://github.com/GiovaneVerbinnen?tab=repositories)  <br>
 
-💻 Aprendizado Contínuo - 1% melhor a cada dia<br>
-
-🤝 Ficarei feliz de colaborar com seu projeto
-
-📫 Pode entrar em contato comigo e ver meu trabalho pelas redes sociais
+📫 Pode entrar em contato comigo e ver meu trabalho pelas redes sociais abaixo
 
 - LinkedIn --> https://bit.ly/38Pmgpu
 
@@ -39,8 +35,5 @@ Me siga no GitHub:
     </tr>  
   </table>
 </center>  
-
- <h3 >Desenvolvedor Full-Stack - UX/UI Designer</h3>
-     <h5>  Desenvolvendo com React & NEXT ou Vue & NUXT no Front-end e APIs com node.js(express, nest.js), PHP( CodeIgniter, Laravel, Wordpress ), Golang.</h5>
 
 
